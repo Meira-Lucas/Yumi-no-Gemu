@@ -569,7 +569,7 @@ section{
     background: var(--detalhes-claro);
     position: relative;
     border-radius: 5px;
-    box-shadow: 0 2px 15px rgb(248, 165, 10);
+    box-shadow: 0 2px 15px rgb(224, 92, 241);
 }
 .depoimentos .depoimento-item p::after{
     content: "";
@@ -684,7 +684,7 @@ section{
     height: 40px;
     border-radius: 50%;
     transition: all 0.4s;
-    box-shadow: 0px 0px 5px 0px rgb(255, 145, 1);
+    box-shadow: 0px 0px 5px 0px rgb(224, 92, 241);
 }
 .back-to-top i{
     color: var(--texto-claro);
