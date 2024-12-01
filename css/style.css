@@ -7,7 +7,7 @@
     --detallhes-icones: #b100c9;
     --texto-escuro:#000;
     --texto-claro:#F2EDDC;
-    --texto-colorido: #d568df;
+    --texto-colorido: #ff00d4;
     --texto-titulo: #deaefd;
 
 
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6{
 #hero{
     width: 100%;
     height: 100vh;
-    background: url("../img/logos/logo ym.png") center; /* inserir img no css */
+    background: url("../img/logos/fundo.png") center; /* inserir img no css */
     background-size: cover;
     background-repeat: no-repeat;
 }
